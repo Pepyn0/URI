@@ -1,5 +1,39 @@
 # URI
 ---
-# Alguns dos meus códigos resolvidos:
-
+### Alguns dos meus códigos resolvidos:
+###### SQL
+- [x] [2602](https://www.urionlinejudge.com.br/judge/pt/problems/view/2602) - [Select Básico](https://github.com/Pepyn0/URI/blob/master/2602.sql) *SQL*
+- [x] [2603](https://www.urionlinejudge.com.br/judge/pt/problems/view/2603) - [Endereço dos Clientes](https://github.com/Pepyn0/URI/blob/master/2603.sql) *SQL*
+- [x] [2604](https://www.urionlinejudge.com.br/judge/pt/problems/view/2604) - [Menores que 10 ou Maiores que 100](https://github.com/Pepyn0/URI/blob/master/2604.sql) *SQL*
+- [x] [2605](https://www.urionlinejudge.com.br/judge/pt/problems/view/2605) - [Representantes Executivos](https://github.com/Pepyn0/URI/blob/master/2605.sql) *SQL*
+- [x] [2606](https://www.urionlinejudge.com.br/judge/pt/problems/view/2606) - [Categorias](https://github.com/Pepyn0/URI/blob/master/2606.sql) *SQL*
+- [x] [2607](https://www.urionlinejudge.com.br/judge/pt/problems/view/2607) - [Cidades em Ordem Alfabética](https://github.com/Pepyn0/URI/blob/master/2607.sql) *SQL*
+- [x] [2608](https://www.urionlinejudge.com.br/judge/pt/problems/view/2608) - [Maior e Menor Preço](https://github.com/Pepyn0/URI/blob/master/2608.sql) *SQL*
+- [x] [2609](https://www.urionlinejudge.com.br/judge/pt/problems/view/2609) - [Produtos por Categorias](https://github.com/Pepyn0/URI/blob/master/2609.sql) *SQL*
+- [x] [2610](https://www.urionlinejudge.com.br/judge/pt/problems/view/2610) - [Valor Médio dos Produtos](https://github.com/Pepyn0/URI/blob/master/2610.sql) *SQL*
+- [x] [2611](https://www.urionlinejudge.com.br/judge/pt/problems/view/2611) - [Filmes de Ação](https://github.com/Pepyn0/URI/blob/master/2611.sql) *SQL*
+- [x] [2613](https://www.urionlinejudge.com.br/judge/pt/problems/view/2613) - [Filmes em Promoção](https://github.com/Pepyn0/URI/blob/master/2613.sql) *SQL*
+- [x] [2614](https://www.urionlinejudge.com.br/judge/pt/problems/view/2614) - [Locações de Setembro](https://github.com/Pepyn0/URI/blob/master/2614.sql) *SQL*
+- [x] [2615](https://www.urionlinejudge.com.br/judge/pt/problems/view/2615) - [Expandindo o Negocio](https://github.com/Pepyn0/URI/blob/master/2615.sql) *SQL*
+- [x] [2616](https://www.urionlinejudge.com.br/judge/pt/problems/view/2616) - [Nenhuma Locação](https://github.com/Pepyn0/URI/blob/master/2616.sql) *SQL*
+- [x] [2617](https://www.urionlinejudge.com.br/judge/pt/problems/view/2617) - [Fornecedor Ajax SA](https://github.com/Pepyn0/URI/blob/master/2617.sql) *SQL*
+- [x] [2618](https://www.urionlinejudge.com.br/judge/pt/problems/view/2618) - [Produtos Importados](https://github.com/Pepyn0/URI/blob/master/2618.sql) *SQL*
+- [x] [2619](https://www.urionlinejudge.com.br/judge/pt/problems/view/2619) - [Super Luxo](https://github.com/Pepyn0/URI/blob/master/2619.sql) *SQL*
+- [x] [2620](https://www.urionlinejudge.com.br/judge/pt/problems/view/2620) - [Pedidos no Primeiro Semestre](https://github.com/Pepyn0/URI/blob/master/2620.sql) *SQL*
+- [x] [2621](https://www.urionlinejudge.com.br/judge/pt/problems/view/2621) - [Quantidades Entre 10 e 20](https://github.com/Pepyn0/URI/blob/master/2621.sql) *SQL*
+- [x] [2622](https://www.urionlinejudge.com.br/judge/pt/problems/view/2622) - [Pessoas jurídicas](https://github.com/Pepyn0/URI/blob/master/2622.sql) *SQL*
+- [x] [2623](https://www.urionlinejudge.com.br/judge/pt/problems/view/2623) - [Categorias com Vários Produtos](https://github.com/Pepyn0/URI/blob/master/2623.sql) *SQL*
+- [x] [2624](https://www.urionlinejudge.com.br/judge/pt/problems/view/2624) - [Quantidades de Cidades por Clientes](https://github.com/Pepyn0/URI/blob/master/2624.sql) *SQL*
+- [x] [2625](https://www.urionlinejudge.com.br/judge/pt/problems/view/2625) - [Máscara de CPF](https://github.com/Pepyn0/URI/blob/master/2625.sql) *SQL*
 - [x] [2737](https://www.urionlinejudge.com.br/judge/pt/problems/view/2737) - [Advogados](https://github.com/Pepyn0/URI/blob/master/2737.sql) *SQL*
+- [x] [2738](https://www.urionlinejudge.com.br/judge/pt/problems/view/2738) - [Concurso](https://github.com/Pepyn0/URI/blob/master/2738.sql) *SQL*
+- [x] [2739](https://www.urionlinejudge.com.br/judge/pt/problems/view/2739) - [Dia de Pagamento](https://github.com/Pepyn0/URI/blob/master/2739.sql) *SQL*
+- [x] [2740](https://www.urionlinejudge.com.br/judge/pt/problems/view/2740) - [Liga](https://github.com/Pepyn0/URI/blob/master/2740.sql) *SQL*
+- [x] [2741](https://www.urionlinejudge.com.br/judge/pt/problems/view/2741) - [Notas dos Alunos](https://github.com/Pepyn0/URI/blob/master/2741.sql) *SQL*
+- [x] [2742](https://www.urionlinejudge.com.br/judge/pt/problems/view/2742) - [O Multiverso de Richard](https://github.com/Pepyn0/URI/blob/master/2742.sql) *SQL*
+- [x] [2743](https://www.urionlinejudge.com.br/judge/pt/problems/view/2743) - [Quantidade de Caracteres](https://github.com/Pepyn0/URI/blob/master/2743.sql) *SQL*
+- [x] [2744](https://www.urionlinejudge.com.br/judge/pt/problems/view/2744) - [Senhas](https://github.com/Pepyn0/URI/blob/master/2744.sql) *SQL*
+- [x] [2745](https://www.urionlinejudge.com.br/judge/pt/problems/view/2745) - [Taxas](https://github.com/Pepyn0/URI/blob/master/2745.sql) *SQL*
+- [x] [2746](https://www.urionlinejudge.com.br/judge/pt/problems/view/2746) - [Virus](https://github.com/Pepyn0/URI/blob/master/2746.sql) *SQL*
+- [x] [2988](https://www.urionlinejudge.com.br/judge/pt/problems/view/2988) - [Campeonato Cearense](https://github.com/Pepyn0/URI/blob/master/2988.sql) *SQL*
+- [x] [3001](https://www.urionlinejudge.com.br/judge/pt/problems/view/3001) - [Update sem Where](https://github.com/Pepyn0/URI/blob/master/3001.sql) *SQL*
