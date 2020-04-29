@@ -1,6 +1,35 @@
 # URI
 ---
 ### Alguns dos meus códigos resolvidos:
+###### Python
+- [x] [1003](https://www.urionlinejudge.com.br/judge/pt/problems/view/1003) - [Soma Simples](https://github.com/Pepyn0/URI/blob/master/1003.py) *Iniciante*
+- [x] [1004](https://www.urionlinejudge.com.br/judge/pt/problems/view/1004) - [Produto Simples](https://github.com/Pepyn0/URI/blob/master/1004.py) *Iniciante*
+- [x] [1005](https://www.urionlinejudge.com.br/judge/pt/problems/view/1005) - [Média 1](https://github.com/Pepyn0/URI/blob/master/1005.py) *Iniciante*
+- [x] [1006](https://www.urionlinejudge.com.br/judge/pt/problems/view/1006) - [Média 2](https://github.com/Pepyn0/URI/blob/master/1006.py) *Iniciante*
+- [x] [1007](https://www.urionlinejudge.com.br/judge/pt/problems/view/1007) - [Diferença](https://github.com/Pepyn0/URI/blob/master/1007.py) *Iniciante*
+- [x] [1008](https://www.urionlinejudge.com.br/judge/pt/problems/view/1008) - [Salário](https://github.com/Pepyn0/URI/blob/master/1008.py) *Iniciante*
+- [x] [1010](https://www.urionlinejudge.com.br/judge/pt/problems/view/1010) - [Cálculo Simples](https://github.com/Pepyn0/URI/blob/master/1010.py) *Iniciante*
+- [x] [1011](https://www.urionlinejudge.com.br/judge/pt/problems/view/1011) - [Esfera](https://github.com/Pepyn0/URI/blob/master/1011.py) *Iniciante*
+- [x] [1012](https://www.urionlinejudge.com.br/judge/pt/problems/view/1012) - [Área](https://github.com/Pepyn0/URI/blob/master/1012.py) *Iniciante*
+- [x] [1013](https://www.urionlinejudge.com.br/judge/pt/problems/view/1013) - [O Maior](https://github.com/Pepyn0/URI/blob/master/1013.py) *Iniciante*
+- [x] [1016](https://www.urionlinejudge.com.br/judge/pt/problems/view/1016) - [Distância](https://github.com/Pepyn0/URI/blob/master/1016.py) *Iniciante*
+- [x] [1017](https://www.urionlinejudge.com.br/judge/pt/problems/view/1017) - [Gasto de Combustível](https://github.com/Pepyn0/URI/blob/master/1017.py) *Iniciante*
+- [x] [1019](https://www.urionlinejudge.com.br/judge/pt/problems/view/1019) - [Conversão de Tempo](https://github.com/Pepyn0/URI/blob/master/1019.py) *Iniciante*
+- [x] [1021](https://www.urionlinejudge.com.br/judge/pt/problems/view/1021) - [Notas e Moedas](https://github.com/Pepyn0/URI/blob/master/1021.py) *Iniciante*
+- [x] [1024](https://www.urionlinejudge.com.br/judge/pt/problems/view/1024) - [Criptografia](https://github.com/Pepyn0/URI/blob/master/1024.py) *Iniciante*
+- [x] [1035](https://www.urionlinejudge.com.br/judge/pt/problems/view/1035) - [Teste de Seleção 1](https://github.com/Pepyn0/URI/blob/master/1035.py) *Iniciante*
+- [x] [1036](https://www.urionlinejudge.com.br/judge/pt/problems/view/1036) - [Fórmula de Bhaskara](https://github.com/Pepyn0/URI/blob/master/1036.py) *Iniciante*
+- [x] [1037](https://www.urionlinejudge.com.br/judge/pt/problems/view/1037) - [Intervalo](https://github.com/Pepyn0/URI/blob/master/1037.py) *Iniciante*
+- [x] [1040](https://www.urionlinejudge.com.br/judge/pt/problems/view/1040) - [Média 3](https://github.com/Pepyn0/URI/blob/master/1040.py) *Iniciante*
+- [x] [1042](https://www.urionlinejudge.com.br/judge/pt/problems/view/1042) - [Sort Simples](https://github.com/Pepyn0/URI/blob/master/1042.py) *Iniciante*
+- [x] [1043](https://www.urionlinejudge.com.br/judge/pt/problems/view/1043) - [Triângulo](https://github.com/Pepyn0/URI/blob/master/1043.py) *Iniciante*
+- [x] [1044](https://www.urionlinejudge.com.br/judge/pt/problems/view/1044) - [Múltiplos](https://github.com/Pepyn0/URI/blob/master/1044.py) *Iniciante*
+- [x] [3039](https://www.urionlinejudge.com.br/judge/pt/problems/view/3039) - [Brinquedos do Papai Noel](https://github.com/Pepyn0/URI/blob/master/3039.py) *Iniciante*
+- [x] [3040](https://www.urionlinejudge.com.br/judge/pt/problems/view/3040) - [A Árvore de Natal](https://github.com/Pepyn0/URI/blob/master/3040.py) *Iniciante*
+- [x] [3042](https://www.urionlinejudge.com.br/judge/pt/problems/view/3042) - [Desviando de Árvores de Natal](https://github.com/Pepyn0/URI/blob/master/3042.py) *Iniciante*
+- [x] [3047](https://www.urionlinejudge.com.br/judge/pt/problems/view/3047) - [A idade de Dona Mônica](https://github.com/Pepyn0/URI/blob/master/3047.py) *Iniciante*
+
+
 ###### SQL
 - [x] [2602](https://www.urionlinejudge.com.br/judge/pt/problems/view/2602) - [Select Básico](https://github.com/Pepyn0/URI/blob/master/2602.sql) *SQL*
 - [x] [2603](https://www.urionlinejudge.com.br/judge/pt/problems/view/2603) - [Endereço dos Clientes](https://github.com/Pepyn0/URI/blob/master/2603.sql) *SQL*
